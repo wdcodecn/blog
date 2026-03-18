@@ -7,7 +7,6 @@ import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
 const config = defineConfig({
-	base: process.env.NODE_ENV === "production" ? "/my-app/" : "/",
 	plugins: [
 		devtools(),
 		paraglideVitePlugin({
