@@ -1,0 +1,69 @@
+# coss ui
+
+**coss ui** is a collection of beautifully designed, accessible, and composable components for your React apps. Built on top of [Base UI](https://base-ui.com/) and styled with [Tailwind CSS](https://tailwindcss.com/), it’s designed for you to copy, paste, and own.
+
+## Overview
+
+- [Introduction](../../../docs/coss_ui/index.md)
+- [Get Started](../../../docs/coss_ui/get-started.md)
+- [Roadmap](../../../docs/coss_ui/roadmap.md)
+
+## Components
+
+- [Accordion](../../../docs/coss_ui/components/accordion.md): A set of collapsible panels with headings.
+- [Alert](../../../docs/coss_ui/components/alert.md): A callout for displaying important information.
+- [Alert Dialog](../../../docs/coss_ui/components/alert-dialog.md): A modal dialog that interrupts the user workflow for critical confirmations.
+- [Autocomplete](../../../docs/coss_ui/components/autocomplete.md): An input that suggests options as you type.
+- [Avatar](../../../docs/coss_ui/components/avatar.md): A visual representation of a user or entity.
+- [Badge](../../../docs/coss_ui/components/badge.md): A small status indicator or label component.
+- [Breadcrumb](../../../docs/coss_ui/components/breadcrumb.md): Displays the path to the current resource using a hierarchy of links.
+- [Button](../../../docs/coss_ui/components/button.md): A button or a component that looks like a button.
+- [Calendar](../../../docs/coss_ui/components/calendar.md): A date picker for selecting single dates, ranges, or multiple dates.
+- [Card](../../../docs/coss_ui/components/card.md): A content container for grouping related information.
+- [Checkbox](../../../docs/coss_ui/components/checkbox.md): A binary toggle input for selecting one or multiple options.
+- [Checkbox Group](../../../docs/coss_ui/components/checkbox-group.md): A collection of related checkboxes with group-level control.
+- [Collapsible](../../../docs/coss_ui/components/collapsible.md): A component that toggles visibility of content sections.
+- [Combobox](../../../docs/coss_ui/components/combobox.md): An input combined with a list of predefined items to select.
+- [Command](../../../docs/coss_ui/components/command.md): A command palette component built with Dialog and Autocomplete for searching and executing commands.
+- [Date Picker](../../../docs/coss_ui/components/date-picker.md): A date selection component, often combined with a calendar in a popover or input.
+- [Dialog](../../../docs/coss_ui/components/dialog.md): A modal overlay for displaying content that requires user interaction.
+- [Empty](../../../docs/coss_ui/components/empty.md): A container for displaying empty state information.
+- [Field](../../../docs/coss_ui/components/field.md): A wrapper component for form inputs with labels and validation.
+- [Fieldset](../../../docs/coss_ui/components/fieldset.md): A group of related form fields with a common label.
+- [Form](../../../docs/coss_ui/components/form.md): A complete form implementation with validation and submission handling.
+- [Frame](../../../docs/coss_ui/components/frame.md): A container component for displaying content in a frame.
+- [Group](../../../docs/coss_ui/components/group.md): A container component for grouping related content with consistent styling.
+- [Input](../../../docs/coss_ui/components/input.md): A native input element.
+- [Input Group](../../../docs/coss_ui/components/input-group.md): A flexible component for grouping inputs with addons, buttons, and other elements.
+- [Kbd](../../../docs/coss_ui/components/kbd.md): A component for displaying keyboard keys and shortcuts.
+- [Label](../../../docs/coss_ui/components/label.md): Renders an accessible label associated with controls.
+- [Menu](../../../docs/coss_ui/components/menu.md): A list of actions or options revealed on demand.
+- [Meter](../../../docs/coss_ui/components/meter.md): A visual representation of a value within a known range.
+- [Number Field](../../../docs/coss_ui/components/number-field.md): A specialized input for numeric values with increment/decrement controls.
+- [Pagination](../../../docs/coss_ui/components/pagination.md): A pagination with page navigation, next and previous links.
+- [Popover](../../../docs/coss_ui/components/popover.md): A floating container that appears near a trigger element.
+- [Preview Card](../../../docs/coss_ui/components/preview-card.md): A rich preview component for displaying linked content.
+- [Progress](../../../docs/coss_ui/components/progress.md): A visual indicator showing the completion status of a task.
+- [Radio Group](../../../docs/coss_ui/components/radio-group.md): A set of mutually exclusive options presented as radio buttons.
+- [Scroll Area](../../../docs/coss_ui/components/scroll-area.md): A container with custom scrollbars for overflow content.
+- [Select](../../../docs/coss_ui/components/select.md): A common form component for choosing a predefined value in a dropdown menu.
+- [Separator](../../../docs/coss_ui/components/separator.md): A visual divider for separating content sections.
+- [Sheet](../../../docs/coss_ui/components/sheet.md): A flyout that opens from the side of the screen, based on the dialog component.
+- [Sidebar](https://coss.com/ui/docs/components/sidebar.md): A collapsible side panel for navigation and secondary content.
+- [Skeleton](../../../docs/coss_ui/components/skeleton.md): A placeholder for loading content.
+- [Slider](../../../docs/coss_ui/components/slider.md): A draggable control for selecting values from a continuous range.
+- [Spinner](../../../docs/coss_ui/components/spinner.md): An indicator that can be used to show a loading state.
+- [Switch](../../../docs/coss_ui/components/switch.md): A toggle control for binary on/off states.
+- [Table](../../../docs/coss_ui/components/table.md): A structured data display component with rows and columns.
+- [Tabs](../../../docs/coss_ui/components/tabs.md): A navigation component for switching between different views or content panels.
+- [Textarea](../../../docs/coss_ui/components/textarea.md): A multi-line text input for longer content.
+- [Toast](../../../docs/coss_ui/components/toast.md): A temporary notification message that appears and disappears automatically.
+- [Toggle](../../../docs/coss_ui/components/toggle.md): A button that switches between two states.
+- [Toggle Group](../../../docs/coss_ui/components/toggle-group.md): A group of toggle buttons where one or multiple can be selected.
+- [Toolbar](../../../docs/coss_ui/components/toolbar.md): A container for grouping related actions or controls.
+- [Tooltip](../../../docs/coss_ui/components/tooltip.md): A small overlay that provides contextual information on hover or focus.
+
+## Hooks
+
+- [useMediaQuery](../../../docs/coss_ui/hooks/use-media-query.md): Reactive media query hook with Tailwind-like syntax for conditional rendering based on breakpoints, pointer type, or any CSS media query.
+- [useCopyToClipboard](../../../docs/coss_ui/hooks/use-copy-to-clipboard.md): Copy text to clipboard with a temporary "copied" state and optional callback.
